@@ -4,7 +4,7 @@
     "href": "sobre.html",
     "title": "Sobre",
     "section": "",
-    "text": "Ciência de Dados e Analytics — USP/ESALQ\nInteresses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos\nCurrículo Lattes"
+    "text": "Ciência de Dados e Analytics — USP/ESALQ\nInteresses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos\nORCID 0009-0000-5263-4919\nCurrículo Lattes"
   },
   {
     "objectID": "projetos/escolas-calor/index.html",
@@ -25,7 +25,7 @@
     "href": "projetos/escolas-calor/index.html#mapa-interativo",
     "title": "Calor nas escolas municipais de São Paulo",
     "section": "Mapa interativo",
-    "text": "Mapa interativo\nClique em uma escola para ver os valores. Use o seletor de camadas (canto superior direito) para ligar e desligar classes.\n\n\n/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/folium/raster_layers.py:129: UserWarning: CartoDB tiles now require an API key. Please provide one to continue using the tiles. You can request the key at https://carto.com/basemaps/apikey/.\n  tiles = tiles.build_url(fill_subdomain=False, scale_factor=\"{r}\")  # type: ignore\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+    "text": "Mapa interativo\nClique em uma escola para ver os valores. Use o seletor de camadas (canto superior direito) para ligar e desligar classes.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   },
   {
     "objectID": "projetos/escolas-calor/index.html#método",
