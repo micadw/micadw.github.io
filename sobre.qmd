@@ -6,4 +6,5 @@ title: "Sobre"
 
 - Ciência de Dados e Analytics — USP/ESALQ
 - Interesses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos
+- [ORCID 0009-0000-5263-4919](https://orcid.org/0009-0000-5263-4919)
 - [Currículo Lattes](https://lattes.cnpq.br/)  <!-- troque pelo seu link -->

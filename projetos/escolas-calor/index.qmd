@@ -31,12 +31,14 @@ Clique em uma escola para ver os valores. Use o seletor de camadas (canto superi
 
 ```{python}
 #| echo: false
+#| warning: false
 import pandas as pd, folium
 
 d = pd.read_csv("../../data/escolas_temperatura.csv")
 cores = {"1": "#2c7bb6", "2": "#abd9e9", "3": "#fee090", "4": "#fdae61", "5": "#d7191c"}
 
-m = folium.Map(location=[-23.62, -46.60], zoom_start=10, tiles="CartoDB positron")
+m = folium.Map(location=[-23.62, -46.60], zoom_start=10, tiles=None)
+folium.TileLayer("OpenStreetMap", name="Mapa base (OpenStreetMap)", control=False, opacity=0.6).add_to(m)
 for classe, g in d.sort_values("classe_calor").groupby("classe_calor"):
     camada = folium.FeatureGroup(name=f"{classe} ({len(g)})", show=True)
     cor = cores[str(classe)[0]]
