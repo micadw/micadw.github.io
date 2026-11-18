@@ -1,0 +1,29 @@
+---
+title: "Mica"
+subtitle: "Ciência de dados aplicada a cidades e políticas públicas"
+about:
+  template: trestles
+  image: projetos/escolas-calor/capa.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/micadw
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/   # <<< troque
+listing:
+  id: destaques
+  contents: projetos/*/index.qmd
+  type: grid
+  sort: "date desc"
+  max-items: 3
+  fields: [image, title, description, categories]
+---
+
+Estudante de Ciência de Dados e Analytics (USP/ESALQ). Uso dados abertos, sensoriamento remoto e
+análise espacial para entender problemas urbanos de São Paulo.
+
+## Projetos em destaque
+
+::: {#destaques}
+:::

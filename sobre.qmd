@@ -1,0 +1,9 @@
+---
+title: "Sobre"
+---
+
+<!-- Escreva aqui 1–2 parágrafos: formação, interesses, contato. Links para LinkedIn, Lattes e blog. -->
+
+- Ciência de Dados e Analytics — USP/ESALQ
+- Interesses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos
+- [Currículo Lattes](https://lattes.cnpq.br/)  <!-- troque pelo seu link -->

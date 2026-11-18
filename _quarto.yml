@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mica · Ciência de Dados"
+  site-url: "https://micadw.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: projetos.qmd
+        text: Projetos
+      - href: sobre.qmd
+        text: Sobre
+    right:
+      - icon: github
+        href: https://github.com/micadw
+      - icon: linkedin
+        href: https://www.linkedin.com/   # <<< troque pelo seu perfil
+  page-footer:
+    center: "Projetos pessoais e acadêmicos com dados abertos · © 2026"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    lang: pt
+
+execute:
+  freeze: auto   # só reexecuta o código de uma página quando ela muda
