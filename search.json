@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Ciência de Dados e Analytics — USP/ESALQ\nInteresses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos\nCurrículo Lattes"
+  },
+  {
+    "objectID": "projetos/escolas-calor/index.html",
+    "href": "projetos/escolas-calor/index.html",
+    "title": "Calor nas escolas municipais de São Paulo",
+    "section": "",
+    "text": "Projeto pessoal e acadêmico com dados abertos. Não representa posição oficial da Prefeitura de São Paulo.\nRepositório no GitHub Dados (Zenodo)  Abrir no Colab"
+  },
+  {
+    "objectID": "projetos/escolas-calor/index.html#resumo",
+    "href": "projetos/escolas-calor/index.html#resumo",
+    "title": "Calor nas escolas municipais de São Paulo",
+    "section": "Resumo",
+    "text": "Resumo\nMedi o calor no entorno de cada escola municipal com imagens Landsat 8/9 (2019–2025) e estações do INMET. Calculo ilha de calor, sensação térmica e horas de desconforto no horário de aula e cruzo com idade dos alunos, matrículas e vegetação. Resultado: cinco classes de calor e prioridades P1–P4 por etapa de ensino.\nAchados: 1.646 das 3.772 escolas estão nas classes “muito quente” ou “extrema” (ilha de calor ≥ 6 °C). São Miguel, Penha e Freguesia/Brasilândia concentram as escolas mais quentes."
+  },
+  {
+    "objectID": "projetos/escolas-calor/index.html#mapa-interativo",
+    "href": "projetos/escolas-calor/index.html#mapa-interativo",
+    "title": "Calor nas escolas municipais de São Paulo",
+    "section": "Mapa interativo",
+    "text": "Mapa interativo\nClique em uma escola para ver os valores. Use o seletor de camadas (canto superior direito) para ligar e desligar classes.\n\n\n/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/folium/raster_layers.py:129: UserWarning: CartoDB tiles now require an API key. Please provide one to continue using the tiles. You can request the key at https://carto.com/basemaps/apikey/.\n  tiles = tiles.build_url(fill_subdomain=False, scale_factor=\"{r}\")  # type: ignore\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+  },
+  {
+    "objectID": "projetos/escolas-calor/index.html#método",
+    "href": "projetos/escolas-calor/index.html#método",
+    "title": "Calor nas escolas municipais de São Paulo",
+    "section": "Método",
+    "text": "Método\n\nCadastro de escolas da SME (rede direta e conveniada).\nTemperatura de superfície Landsat com máscara de nuvem, meses letivos quentes.\nEstatística zonal com peso pela fração de cada pixel de 30 m num raio de 100 m.\nSensação térmica e graus-hora em horas letivas (INMET + diferença local do satélite).\nPriorização por exposição (0,60), sensibilidade (0,15) e vegetação (0,25), separada por etapa.\n\n\n\n\nPrioridade por etapa de ensino"
+  },
+  {
+    "objectID": "projetos/escolas-calor/index.html#ferramentas",
+    "href": "projetos/escolas-calor/index.html#ferramentas",
+    "title": "Calor nas escolas municipais de São Paulo",
+    "section": "Ferramentas",
+    "text": "Ferramentas\nPython · pandas · geopandas · rasterio · exactextract · STAC / Planetary Computer · Google Earth Engine · Google Colab · Quarto"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mica",
+    "section": "",
+    "text": "Estudante de Ciência de Dados e Analytics (USP/ESALQ). Uso dados abertos, sensoriamento remoto e análise espacial para entender problemas urbanos de São Paulo."
+  },
+  {
+    "objectID": "index.html#projetos-em-destaque",
+    "href": "index.html#projetos-em-destaque",
+    "title": "Mica",
+    "section": "Projetos em destaque",
+    "text": "Projetos em destaque\n\n\n\n\n\n\n\n\n\n\nCalor nas escolas municipais de São Paulo\n\n\nsensoriamento remoto\nLandsat\nilha de calor\nanálise espacial\npolíticas públicas\nPython\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Calor nas escolas municipais de São Paulo\n\n\n\nsensoriamento remoto\n\nLandsat\n\nilha de calor\n\nanálise espacial\n\npolíticas públicas\n\nPython\n\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n18 de nov. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+  }
+]
