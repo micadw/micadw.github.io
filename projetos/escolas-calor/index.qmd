@@ -18,8 +18,8 @@ Projeto pessoal e acadêmico com dados abertos. Não representa posição oficia
 
 ## Resumo
 
-Medi o calor no entorno de cada escola municipal com imagens Landsat 8/9 (2019–2025) e estações do INMET.
-Calculo ilha de calor, sensação térmica e horas de desconforto no horário de aula e cruzo com idade dos alunos,
+O projeto mede o calor no entorno de cada escola municipal com imagens Landsat 8/9 (2019–2025) e estações do INMET.
+São calculadas ilha de calor, sensação térmica e horas de desconforto no horário de aula, cruzadas com idade dos alunos,
 matrículas e vegetação. Resultado: cinco classes de calor e prioridades P1–P4 por etapa de ensino.
 
 **Achados:** 1.646 das 3.772 escolas estão nas classes "muito quente" ou "extrema" (ilha de calor ≥ 6 °C).
