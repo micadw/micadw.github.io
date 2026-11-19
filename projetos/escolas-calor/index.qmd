@@ -9,7 +9,7 @@ jupyter: python3
 ---
 
 ::: {.callout-note appearance="minimal"}
-Projeto pessoal e acadêmico com dados abertos. Não representa posição oficial da Prefeitura de São Paulo.
+Desenvolvido com dados abertos. Não representa posição oficial da Prefeitura de São Paulo.
 :::
 
 [Repositório no GitHub](https://github.com/micadw/escolas-calor-sp){.btn .btn-outline-primary}
