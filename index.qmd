@@ -20,8 +20,8 @@ listing:
   fields: [image, title, description, categories]
 ---
 
-Estudante de Ciência de Dados e Analytics (USP/ESALQ). Uso dados abertos, sensoriamento remoto e
-análise espacial para entender problemas urbanos de São Paulo.
+Mestre em Estudos Culturais (EACH/USP), especialista em Data Science e Analytics (ESALQ/USP) e em Gestão Pública (INPG).
+Uso dados abertos, sensoriamento remoto e análise espacial para entender problemas urbanos de São Paulo.
 
 ## Projetos em destaque
 

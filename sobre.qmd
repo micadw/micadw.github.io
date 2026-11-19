@@ -4,7 +4,9 @@ title: "Sobre"
 
 <!-- Escreva aqui 1–2 parágrafos: formação, interesses, contato. Links para LinkedIn, Lattes e blog. -->
 
-- Ciência de Dados e Analytics — USP/ESALQ
+- Mestre em Estudos Culturais — EACH/USP
+- Especialista em Data Science e Analytics — ESALQ/USP
+- Especialista em Gestão Pública — INPG
 - Interesses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos
 - [ORCID 0009-0000-5263-4919](https://orcid.org/0009-0000-5263-4919)
 - [Currículo Lattes](https://lattes.cnpq.br/)  <!-- troque pelo seu link -->
