@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - data/escolas_calor_sp_v2.xlsx
+    - data/escolas_calor_sp_v2.csv
 
 website:
   title: "Mica · Ciência de Dados"

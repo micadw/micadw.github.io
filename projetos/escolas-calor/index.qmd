@@ -16,6 +16,8 @@ Projeto pessoal e acadêmico com dados abertos. Não representa posição oficia
 [Dados (Zenodo)](#){.btn .btn-outline-secondary}  <!-- troque # pelo DOI quando publicar -->
 [Abrir no Colab](https://colab.research.google.com/github/micadw/escolas-calor-sp/blob/main/notebooks/01_ingestao_escolas.ipynb){.btn .btn-outline-secondary}
 
+**Baixar a base por escola:** [Planilha Excel (.xlsx)](../../data/escolas_calor_sp_v2.xlsx){.btn .btn-success download=""} [CSV (.csv)](../../data/escolas_calor_sp_v2.csv){.btn .btn-outline-success download=""}
+
 ## Resumo
 
 O projeto mede o calor no entorno de cada escola municipal com imagens Landsat 8/9 (2019–2025) e estações do INMET.
