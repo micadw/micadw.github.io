@@ -13,7 +13,7 @@ Desenvolvido com dados abertos. Não representa posição oficial da Prefeitura 
 :::
 
 [Repositório no GitHub](https://github.com/micadw/escolas-calor-sp){.btn .btn-outline-primary}
-[Dados (Zenodo)](#){.btn .btn-outline-secondary}  <!-- troque # pelo DOI quando publicar -->
+[Dados (Zenodo)](https://doi.org/10.5281/zenodo.24401164){.btn .btn-outline-secondary}
 [Abrir no Colab](https://colab.research.google.com/github/micadw/escolas-calor-sp/blob/main/notebooks/01_ingestao_escolas.ipynb){.btn .btn-outline-secondary}
 
 **Baixar a base por escola:** [Planilha Excel (.xlsx)](../../data/escolas_calor_sp_v2.xlsx){.btn .btn-success download=""} [CSV (.csv)](../../data/escolas_calor_sp_v2.csv){.btn .btn-outline-success download=""}
