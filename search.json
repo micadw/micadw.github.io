@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "projetos.html",
-    "href": "projetos.html",
-    "title": "Projetos",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mica",
     "section": "",
-    "text": "Orçamento da Cultura em São Paulo: da proposta ao pagamento\n\n\n\nem andamento\n\norçamento público\n\ntransparência\n\npolítica cultural\n\ndados abertos\n\nPython\n\n\n\nConsulta pública da execução orçamentária da cultura na Prefeitura de São Paulo por código de dotação, com taxas de execução, alertas e série 2003–2026 corrigida pelo IPCA.…\n\n\n\n20 de nov. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalor nas escolas municipais de São Paulo\n\n\n\nsensoriamento remoto\n\nLandsat\n\nilha de calor\n\nanálise espacial\n\npolíticas públicas\n\nPython\n\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n18 de nov. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Mestre em Estudos Culturais (EACH/USP), especialista em Data Science e Analytics (ESALQ/USP) e em Gestão Pública (INPG). Uso dados abertos, sensoriamento remoto e análise espacial para entender problemas urbanos de São Paulo."
   },
   {
-    "objectID": "projetos/orcamento-cultura/index.html",
-    "href": "projetos/orcamento-cultura/index.html",
-    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
-    "section": "",
-    "text": "AvisoEm andamento · v0.1.0\n\n\n\nPiloto em desenvolvimento, atualizado diariamente. Próximas versões: empenhos e credores por dotação, decretos de crédito e emendas da Câmara.\nAbrir a ferramenta Repositório no GitHub DOI (Zenodo)"
-  },
-  {
-    "objectID": "projetos/orcamento-cultura/index.html#resumo",
-    "href": "projetos/orcamento-cultura/index.html#resumo",
-    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
-    "section": "Resumo",
-    "text": "Resumo\nFerramenta para buscar qualquer dotação do orçamento da cultura da Prefeitura de São Paulo pelo código ou por palavra e acompanhar o caminho do dinheiro: orçado na lei, créditos adicionais, congelamentos, empenho, liquidação e pagamento. Os dados vêm das bases abertas de execução orçamentária da Prefeitura (SEPLAN/SOF), coletadas todo dia por GitHub Actions, e a série 2003–2026 é corrigida pelo IPCA do Banco Central.\nAchados iniciais (até 19/11/2026): a Secretaria Municipal de Cultura começou 2026 com R$ 906,2 milhões aprovados e chegou a R$ 1,16 bilhão com créditos adicionais (+28%); 80% foi empenhado e 54% pago. No Fundo Municipal de Cultura, o fomento às linguagens artísticas caiu de R$ 70,7 milhões aprovados para R$ 60 mil.\n\n\n\nSecretaria Municipal de Cultura, 2003–2026, em valores corrigidos pelo IPCA."
-  },
-  {
-    "objectID": "projetos/orcamento-cultura/index.html#o-que-a-ferramenta-faz",
-    "href": "projetos/orcamento-cultura/index.html#o-que-a-ferramenta-faz",
-    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
-    "section": "O que a ferramenta faz",
-    "text": "O que a ferramenta faz\n\nInício: resumo em linguagem simples, alertas automáticos e as maiores ações.\nExplorar: busca por código de dotação ou palavra, filtros, estatística descritiva, quebra por programa, ação, natureza e fonte, e download em CSV.\nFicha da dotação: link próprio, linha do tempo do orçado ao pago e dotações da mesma ação.\nSérie 2003–2026: valores nominais e corrigidos pelo IPCA, taxas de execução e peso no orçamento da Prefeitura."
-  },
-  {
-    "objectID": "projetos/orcamento-cultura/index.html#dados-método-e-licenças",
-    "href": "projetos/orcamento-cultura/index.html#dados-método-e-licenças",
-    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
-    "section": "Dados, método e licenças",
-    "text": "Dados, método e licenças\nFontes: SEPLAN/PMSP (execução orçamentária, dados abertos), BCB/SGS 433 (IPCA). Correção: fator = IPCA do mês-base ÷ IPCA de dezembro de cada ano. Código sob MIT; dados tratados e textos sob CC BY 4.0.\nComo citar: Farina, A. F. (2026). Orçamento da Cultura em São Paulo: da proposta ao pagamento (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.24399304"
-  },
-  {
-    "objectID": "sobre.html",
-    "href": "sobre.html",
-    "title": "Sobre",
-    "section": "",
-    "text": "Mestre em Estudos Culturais — EACH/USP\nEspecialista em Data Science e Analytics — ESALQ/USP\nEspecialista em Gestão Pública — INPG\nInteresses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos\nORCID 0009-0000-5263-4919\nCurrículo Lattes"
+    "objectID": "index.html#projetos-em-destaque",
+    "href": "index.html#projetos-em-destaque",
+    "title": "Mica",
+    "section": "Projetos em destaque",
+    "text": "Projetos em destaque\n\n\n\n\n\n\n\n\n\n\nOrçamento da Cultura em São Paulo: da proposta ao pagamento\n\n\nem andamento\norçamento público\ntransparência\npolítica cultural\ndados abertos\nPython\n\n\nConsulta pública da execução orçamentária da cultura na Prefeitura de São Paulo por código de dotação, com taxas de execução, alertas e série 2003–2026 corrigida pelo IPCA.…\n\n\n\n\n\n\n\n\n\n\n\n\nCalor nas escolas municipais de São Paulo\n\n\nsensoriamento remoto\nLandsat\nilha de calor\nanálise espacial\npolíticas públicas\nPython\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "projetos/escolas-calor/index.html",
@@ -77,17 +49,45 @@
     "text": "Ferramentas\nPython · pandas · geopandas · rasterio · exactextract · STAC / Planetary Computer · Google Earth Engine · Google Colab · Quarto"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mica",
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
     "section": "",
-    "text": "Mestre em Estudos Culturais (EACH/USP), especialista em Data Science e Analytics (ESALQ/USP) e em Gestão Pública (INPG). Uso dados abertos, sensoriamento remoto e análise espacial para entender problemas urbanos de São Paulo."
+    "text": "Orçamento da Cultura em São Paulo: da proposta ao pagamento\n\n\n\nem andamento\n\norçamento público\n\ntransparência\n\npolítica cultural\n\ndados abertos\n\nPython\n\n\n\nConsulta pública da execução orçamentária da cultura na Prefeitura de São Paulo por código de dotação, com taxas de execução, alertas e série 2003–2026 corrigida pelo IPCA.…\n\n\n\n20 de nov. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalor nas escolas municipais de São Paulo\n\n\n\nsensoriamento remoto\n\nLandsat\n\nilha de calor\n\nanálise espacial\n\npolíticas públicas\n\nPython\n\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n18 de nov. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "index.html#projetos-em-destaque",
-    "href": "index.html#projetos-em-destaque",
-    "title": "Mica",
-    "section": "Projetos em destaque",
-    "text": "Projetos em destaque\n\n\n\n\n\n\n\n\n\n\nOrçamento da Cultura em São Paulo: da proposta ao pagamento\n\n\nem andamento\norçamento público\ntransparência\npolítica cultural\ndados abertos\nPython\n\n\nConsulta pública da execução orçamentária da cultura na Prefeitura de São Paulo por código de dotação, com taxas de execução, alertas e série 2003–2026 corrigida pelo IPCA.…\n\n\n\n\n\n\n\n\n\n\n\n\nCalor nas escolas municipais de São Paulo\n\n\nsensoriamento remoto\nLandsat\nilha de calor\nanálise espacial\npolíticas públicas\nPython\n\n\nTemperatura de superfície por satélite atribuída a 3.772 escolas municipais, com índices de conforto térmico e priorização para climatização, telhados frios e arborização.\n\n\n\n\n\nNenhum item correspondente"
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Mestre em Estudos Culturais — EACH/USP\nEspecialista em Data Science e Analytics — ESALQ/USP\nEspecialista em Gestão Pública — INPG\nInteresses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos\nORCID 0009-0000-5263-4919\nCurrículo Lattes"
+  },
+  {
+    "objectID": "projetos/orcamento-cultura/index.html",
+    "href": "projetos/orcamento-cultura/index.html",
+    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
+    "section": "",
+    "text": "AvisoEm andamento · v0.1.1\n\n\n\nPiloto em desenvolvimento, atualizado diariamente. Próximas versões: empenhos e credores por dotação, decretos de crédito e emendas da Câmara.\nAbrir a ferramenta Repositório no GitHub DOI (Zenodo) Dados (Zenodo)"
+  },
+  {
+    "objectID": "projetos/orcamento-cultura/index.html#resumo",
+    "href": "projetos/orcamento-cultura/index.html#resumo",
+    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
+    "section": "Resumo",
+    "text": "Resumo\nFerramenta para buscar qualquer dotação do orçamento da cultura da Prefeitura de São Paulo pelo código ou por palavra e acompanhar o caminho do dinheiro: orçado na lei, créditos adicionais, congelamentos, empenho, liquidação e pagamento. Os dados vêm das bases abertas de execução orçamentária da Prefeitura (SEPLAN/SOF), coletadas todo dia por GitHub Actions, e a série 2003–2026 é corrigida pelo IPCA do Banco Central.\nAchados iniciais (até 19/11/2026): a Secretaria Municipal de Cultura começou 2026 com R$ 906,2 milhões aprovados e chegou a R$ 1,16 bilhão com créditos adicionais (+28%); 80% foi empenhado e 54% pago. No Fundo Municipal de Cultura, o fomento às linguagens artísticas caiu de R$ 70,7 milhões aprovados para R$ 60 mil.\n\n\n\nSecretaria Municipal de Cultura, 2003–2026, em valores corrigidos pelo IPCA."
+  },
+  {
+    "objectID": "projetos/orcamento-cultura/index.html#o-que-a-ferramenta-faz",
+    "href": "projetos/orcamento-cultura/index.html#o-que-a-ferramenta-faz",
+    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
+    "section": "O que a ferramenta faz",
+    "text": "O que a ferramenta faz\n\nInício: resumo em linguagem simples, alertas automáticos e as maiores ações.\nExplorar: busca por código de dotação ou palavra, filtros, estatística descritiva, quebra por programa, ação, natureza e fonte, e download em CSV.\nFicha da dotação: link próprio, linha do tempo do orçado ao pago e dotações da mesma ação.\nSérie 2003–2026: valores nominais e corrigidos pelo IPCA, taxas de execução e peso no orçamento da Prefeitura."
+  },
+  {
+    "objectID": "projetos/orcamento-cultura/index.html#dados-método-e-licenças",
+    "href": "projetos/orcamento-cultura/index.html#dados-método-e-licenças",
+    "title": "Orçamento da Cultura em São Paulo: da proposta ao pagamento",
+    "section": "Dados, método e licenças",
+    "text": "Dados, método e licenças\nFontes: SEPLAN/PMSP (execução orçamentária, dados abertos), BCB/SGS 433 (IPCA). Correção: fator = IPCA do mês-base ÷ IPCA de dezembro de cada ano. Código sob MIT; dados tratados e textos sob CC BY 4.0. Nomes de pessoa física nas descrições oficiais são mascarados (LGPD).\nComo citar: Farina, A. F. (2026). Orçamento da Cultura em São Paulo: da proposta ao pagamento Zenodo. https://doi.org/10.5281/zenodo.24399304 · Dados: https://doi.org/10.5281/zenodo.24399591"
   }
 ]
