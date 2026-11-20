@@ -7,7 +7,7 @@ categories: [em andamento, orçamento público, transparência, política cultur
 toc: true
 ---
 
-::: {.callout-warning appearance="simple" title="Em andamento · v0.1.0"}
+::: {.callout-warning appearance="simple" title="Em andamento · v0.1.1"}
 Piloto em desenvolvimento, atualizado diariamente. Próximas versões: empenhos e credores por dotação, decretos de crédito e emendas da Câmara.
 :::
 
@@ -18,6 +18,7 @@ Desenvolvido com dados abertos. Não representa posição oficial da Prefeitura 
 [Abrir a ferramenta](https://micadw.github.io/dsa-orcamento-cultura-sp/){.btn .btn-primary}
 [Repositório no GitHub](https://github.com/micadw/dsa-orcamento-cultura-sp){.btn .btn-outline-primary}
 [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24399304){.btn .btn-outline-secondary}
+[Dados (Zenodo)](https://doi.org/10.5281/zenodo.24399591){.btn .btn-outline-secondary}
 
 ## Resumo
 
@@ -36,6 +37,6 @@ Ferramenta para buscar qualquer dotação do orçamento da cultura da Prefeitura
 
 ## Dados, método e licenças
 
-Fontes: SEPLAN/PMSP (execução orçamentária, dados abertos), BCB/SGS 433 (IPCA). Correção: fator = IPCA do mês-base ÷ IPCA de dezembro de cada ano. Código sob MIT; dados tratados e textos sob CC BY 4.0.
+Fontes: SEPLAN/PMSP (execução orçamentária, dados abertos), BCB/SGS 433 (IPCA). Correção: fator = IPCA do mês-base ÷ IPCA de dezembro de cada ano. Código sob MIT; dados tratados e textos sob CC BY 4.0. Nomes de pessoa física nas descrições oficiais são mascarados (LGPD).
 
-**Como citar:** Farina, A. F. (2026). *Orçamento da Cultura em São Paulo: da proposta ao pagamento* (v0.1.0). Zenodo. <https://doi.org/10.5281/zenodo.24399304>
+**Como citar:** Farina, A. F. (2026). *Orçamento da Cultura em São Paulo: da proposta ao pagamento* Zenodo. <https://doi.org/10.5281/zenodo.24399304> · Dados: <https://doi.org/10.5281/zenodo.24399591>
