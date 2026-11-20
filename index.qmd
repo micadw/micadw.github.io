@@ -10,7 +10,7 @@ about:
       href: https://github.com/micadw
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/   # <<< troque
+      href: https://www.linkedin.com/in/amilcar-farina-3a5b1885/
 listing:
   id: destaques
   contents: projetos/*/index.qmd

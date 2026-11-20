@@ -9,4 +9,5 @@ title: "Sobre"
 - Especialista em Gestão Pública — INPG
 - Interesses: análise espacial, sensoriamento remoto, políticas públicas, dados abertos
 - [ORCID 0009-0000-5263-4919](https://orcid.org/0009-0000-5263-4919)
-- [Currículo Lattes](https://lattes.cnpq.br/)  <!-- troque pelo seu link -->
+- [Currículo Lattes](http://lattes.cnpq.br/6577102661946723)
+- [LinkedIn](https://www.linkedin.com/in/amilcar-farina-3a5b1885/)
