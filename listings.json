@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projetos/arborizacao-sp/index.html",
       "/projetos/orcamento-cultura/index.html",
       "/projetos/escolas-calor/index.html"
     ]
@@ -9,6 +10,7 @@
   {
     "listing": "/projetos.html",
     "items": [
+      "/projetos/arborizacao-sp/index.html",
       "/projetos/orcamento-cultura/index.html",
       "/projetos/escolas-calor/index.html"
     ]
